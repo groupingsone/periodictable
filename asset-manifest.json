@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/periodictable/static/css/main.d73afb30.css",
+    "main.js": "/periodictable/static/js/main.0b816deb.js",
+    "index.html": "/periodictable/index.html",
+    "main.d73afb30.css.map": "/periodictable/static/css/main.d73afb30.css.map",
+    "main.0b816deb.js.map": "/periodictable/static/js/main.0b816deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73afb30.css",
+    "static/js/main.0b816deb.js"
+  ]
+}
